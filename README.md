@@ -1,2 +1,2 @@
 # MSC-DYN
-Dynamic Rupture simmulaiton 2D in plane
+Dynamic Rupture simmulaiton 3D
