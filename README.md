@@ -1,2 +1,2 @@
 # MSC-DYN
-Dynamic Rupture simmulaiton 3D
+Dynamic Rupture simulation 3D
